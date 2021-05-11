@@ -1,0 +1,8 @@
+.feedback {
+    display: flex;
+    justify-content: center;
+}
+
+.feedback:not(:last-child) {
+    margin-bottom: 15px;
+  }
